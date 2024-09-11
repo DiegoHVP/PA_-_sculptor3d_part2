@@ -1,7 +1,7 @@
 # Projeto parte 2 - Sculptor3D
 ## Introdução
 
-Este projeto faz o uso do projeto [Sculptor3D](https://github.com/DiegoHVP/sculptor3d). O objetivo é aprender conceitos de herança, permitindo a criação de diferentes figuras geométricas.
+Este projeto faz o uso do projeto [Sculptor3D](https://github.com/DiegoHVP/PA_-_sculptor3d_part1). O objetivo é aprender conceitos de herança, permitindo a criação de diferentes figuras geométricas.
 
 ## Funcionamento
 
